@@ -33,7 +33,8 @@ const HomePage=()=>(
                     <h1 className="title">Man</h1>
                     <span className="subtitle">SHOP</span>
                 </div>
-             </div>                                                    
+             </div>   
+                                            
         </div>
     </div>
 );
