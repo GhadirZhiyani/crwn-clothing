@@ -12,6 +12,7 @@ const CollectionItem=(props)=>(
     <span className="name">{props.name}</span>
     <span className="price">{props.price}</span>
     </div>
+    
     </div>
 
 
